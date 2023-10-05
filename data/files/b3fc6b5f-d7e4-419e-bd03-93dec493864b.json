@@ -1,0 +1,20 @@
+﻿{
+  "Name": "Nord Dark",
+  "BackgroundColor": "46, 52, 64",
+  "LightBackgroundColor": "59, 66, 82",
+  "DarkBackgroundColor": "38, 44, 57",
+  "TextColor": "229, 233, 240",
+  "BorderColor": "30, 38, 54",
+  "CheckerColor": "46, 52, 64",
+  "CheckerColor2": "36, 42, 54",
+  "CheckerSize": 15,
+  "LinkColor": "136, 192, 208",
+  "MenuHighlightColor": "36, 42, 54",
+  "MenuHighlightBorderColor": "24, 30, 42",
+  "MenuBorderColor": "24, 30, 42",
+  "MenuCheckBackgroundColor": "59, 66, 82",
+  "ContextMenuFont": "Segoe UI, 10pt",
+  "ContextMenuOpacity": 100,
+  "SeparatorLightColor": "59, 66, 82",
+  "SeparatorDarkColor": "30, 38, 54"
+}

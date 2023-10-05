@@ -1,0 +1,21 @@
+﻿{
+  "Name": "Smooth Dark",
+  "BackgroundColor": "32, 32, 32",
+  "LightBackgroundColor": "32, 32, 32",
+  "DarkBackgroundColor": "32, 32, 32",
+  "TextColor": "White",
+  "BorderColor": "178, 178, 178",
+  "CheckerColor": "White",
+  "CheckerColor2": "White",
+  "CheckerSize": 18,
+  "LinkColor": "91, 107, 188",
+  "MenuHighlightColor": "175, 175, 175",
+  "MenuHighlightBorderColor": "175, 175, 175",
+  "MenuBorderColor": "32, 32, 32",
+  "MenuCheckBackgroundColor": "91, 107, 188",
+  "MenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuFont": "Segoe UI, 10pt",
+  "ContextMenuOpacity": 100,
+  "SeparatorLightColor": "32, 32, 32",
+  "SeparatorDarkColor": "178, 178, 178"
+}

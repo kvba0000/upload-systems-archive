@@ -1,0 +1,20 @@
+﻿{
+  "Name": "Gamesense",
+  "BackgroundColor": "36, 39, 44",
+  "LightBackgroundColor": "70, 75, 84",
+  "DarkBackgroundColor": "30, 24, 24",
+  "TextColor": "0, 255, 6",
+  "BorderColor": "72, 255, 0",
+  "CheckerColor": "72, 255, 0",
+  "CheckerColor2": "72, 255, 0",
+  "CheckerSize": 15,
+  "LinkColor": "72, 255, 0",
+  "MenuHighlightColor": "72, 255, 0",
+  "MenuHighlightBorderColor": "72, 255, 0",
+  "MenuBorderColor": "72, 255, 0",
+  "MenuCheckBackgroundColor": "72, 255, 0",
+  "ContextMenuFont": "Segoe UI, 10pt",
+  "ContextMenuOpacity": 100,
+  "SeparatorLightColor": "56, 64, 75",
+  "SeparatorDarkColor": "22, 26, 31"
+}

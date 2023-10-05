@@ -1,0 +1,20 @@
+﻿{
+  "Name": "Dark",
+  "BackgroundColor": "33, 36, 54",
+  "LightBackgroundColor": "24, 25, 37",
+  "DarkBackgroundColor": "24, 25, 37",
+  "TextColor": "235, 235, 235",
+  "BorderColor": "77, 127, 255",
+  "CheckerColor": "77, 127, 255",
+  "CheckerColor2": "77, 127, 255",
+  "CheckerSize": 15,
+  "LinkColor": "77, 127, 255",
+  "MenuHighlightColor": "24, 25, 37",
+  "MenuHighlightBorderColor": "77, 127, 255",
+  "MenuBorderColor": "24, 25, 37",
+  "MenuCheckBackgroundColor": "24, 25, 37",
+  "ContextMenuFont": "Microsoft Sans Serif, 12pt",
+  "ContextMenuOpacity": 95,
+  "SeparatorLightColor": "24, 25, 37",
+  "SeparatorDarkColor": "24, 25, 37"
+}

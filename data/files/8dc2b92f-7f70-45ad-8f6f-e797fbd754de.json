@@ -1,0 +1,20 @@
+﻿{
+  "Name": "Better Dark",
+  "BackgroundColor": "Black",
+  "LightBackgroundColor": "20, 20, 20",
+  "DarkBackgroundColor": "12, 12, 12",
+  "TextColor": "GhostWhite",
+  "BorderColor": "40, 40, 40",
+  "CheckerColor": "60, 60, 60",
+  "CheckerColor2": "50, 50, 50",
+  "CheckerSize": 15,
+  "LinkColor": "166, 212, 255",
+  "MenuHighlightColor": "25, 25, 25",
+  "MenuHighlightBorderColor": "White",
+  "MenuBorderColor": "22, 26, 31",
+  "MenuCheckBackgroundColor": "40, 40, 40",
+  "ContextMenuFont": "Segoe UI, 10pt",
+  "ContextMenuOpacity": 100,
+  "SeparatorLightColor": "White",
+  "SeparatorDarkColor": "200, 200, 200"
+}

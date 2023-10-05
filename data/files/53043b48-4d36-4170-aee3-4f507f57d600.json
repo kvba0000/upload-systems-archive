@@ -1,0 +1,21 @@
+﻿{
+  "Name": "Even Better Dark",
+  "BackgroundColor": "25, 27, 38",
+  "LightBackgroundColor": "29, 30, 42",
+  "DarkBackgroundColor": "29, 30, 42",
+  "TextColor": "235, 235, 235",
+  "BorderColor": "14, 16, 28",
+  "CheckerColor": "173, 247, 250",
+  "CheckerColor2": "173, 247, 250",
+  "CheckerSize": 15,
+  "LinkColor": "173, 247, 250",
+  "MenuHighlightColor": "26, 27, 38",
+  "MenuHighlightBorderColor": "29, 30, 42",
+  "MenuBorderColor": "173, 247, 250",
+  "MenuCheckBackgroundColor": "173, 247, 250",
+  "MenuFont": "Arial, 9.75pt",
+  "ContextMenuFont": "Arial, 9.75pt",
+  "ContextMenuOpacity": 100,
+  "SeparatorLightColor": "173, 247, 250",
+  "SeparatorDarkColor": "173, 247, 250"
+}

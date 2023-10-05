@@ -1,0 +1,20 @@
+﻿{
+  "Name": "Dragonblood",
+  "BackgroundColor": "79, 0, 4",
+  "LightBackgroundColor": "120, 0, 0",
+  "DarkBackgroundColor": "52, 0, 0",
+  "TextColor": "255, 193, 193",
+  "BorderColor": "Red",
+  "CheckerColor": "0, 99, 0, 0",
+  "CheckerColor2": "0, 0, 0, 0",
+  "CheckerSize": 15,
+  "LinkColor": "255, 144, 240",
+  "MenuHighlightColor": "210, 0, 255",
+  "MenuHighlightBorderColor": "108, 0, 97",
+  "MenuBorderColor": "252, 0, 255",
+  "MenuCheckBackgroundColor": "98, 164, 255",
+  "ContextMenuFont": "Segoe UI, 10pt",
+  "ContextMenuOpacity": 80,
+  "SeparatorLightColor": "0, 88, 210",
+  "SeparatorDarkColor": "0, 52, 116"
+}

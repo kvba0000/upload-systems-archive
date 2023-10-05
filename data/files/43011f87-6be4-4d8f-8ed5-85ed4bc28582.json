@@ -1,0 +1,21 @@
+﻿{
+  "Name": "Dark",
+  "BackgroundColor": "18, 18, 18",
+  "LightBackgroundColor": "28, 28, 28",
+  "DarkBackgroundColor": "14, 14, 14",
+  "TextColor": "242, 242, 242",
+  "BorderColor": "36, 36, 36",
+  "CheckerColor": "50, 50, 50",
+  "CheckerColor2": "40, 40, 40",
+  "CheckerSize": 13,
+  "LinkColor": "215, 90, 90",
+  "MenuHighlightColor": "45, 45, 45",
+  "MenuHighlightBorderColor": "215, 90, 90",
+  "MenuBorderColor": "12, 12, 12",
+  "MenuCheckBackgroundColor": "24, 24, 24",
+  "MenuFont": "Bahnschrift, 8.25pt",
+  "ContextMenuFont": "Arial, 9.75pt",
+  "ContextMenuOpacity": 95,
+  "SeparatorLightColor": "42, 42, 42",
+  "SeparatorDarkColor": "34, 34, 34"
+}

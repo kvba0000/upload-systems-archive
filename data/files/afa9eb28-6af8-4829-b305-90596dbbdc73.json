@@ -1,0 +1,20 @@
+﻿{
+  "Name": "Dark",
+  "BackgroundColor": "13, 12, 12",
+  "LightBackgroundColor": "43, 38, 38",
+  "DarkBackgroundColor": "Black",
+  "TextColor": "225, 219, 219",
+  "BorderColor": "DimGray",
+  "CheckerColor": "60, 60, 60",
+  "CheckerColor2": "50, 50, 50",
+  "CheckerSize": 15,
+  "LinkColor": "48, 249, 255",
+  "MenuHighlightColor": "23, 21, 21",
+  "MenuHighlightBorderColor": "34, 185, 155",
+  "MenuBorderColor": "34, 185, 155",
+  "MenuCheckBackgroundColor": "42, 38, 38",
+  "ContextMenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuOpacity": 95,
+  "SeparatorLightColor": "48, 48, 48",
+  "SeparatorDarkColor": "32, 32, 32"
+}

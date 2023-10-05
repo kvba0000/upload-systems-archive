@@ -1,0 +1,21 @@
+﻿{
+  "Name": "couzy",
+  "BackgroundColor": "5, 33, 65",
+  "LightBackgroundColor": "0, 24, 54",
+  "DarkBackgroundColor": "0, 24, 54",
+  "TextColor": "235, 235, 235",
+  "BorderColor": "14, 16, 28",
+  "CheckerColor": "5, 33, 65",
+  "CheckerColor2": "5, 33, 65",
+  "CheckerSize": 15,
+  "LinkColor": "0, 31, 69",
+  "MenuHighlightColor": "0, 22, 49",
+  "MenuHighlightBorderColor": "5, 33, 66",
+  "MenuBorderColor": "5, 33, 66",
+  "MenuCheckBackgroundColor": "5, 33, 65",
+  "MenuFont": "Arial, 9.75pt",
+  "ContextMenuFont": "Arial, 9.75pt",
+  "ContextMenuOpacity": 100,
+  "SeparatorLightColor": "173, 247, 250",
+  "SeparatorDarkColor": "173, 247, 250"
+}
